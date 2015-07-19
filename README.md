@@ -10,7 +10,7 @@ sudo service *you_app* {start|stop|restart}
 
 ##Requirement
 
-Bundit was written in Go. You have to install Go by follow this document first.
+Bundit was written in Go. You have to install Go by following this document first.
 
 https://golang.org/doc/install
 
